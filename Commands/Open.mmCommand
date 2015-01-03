@@ -1,0 +1,14 @@
+{
+	isDisabled    = 0;
+	name          = 'Open in Browser';
+	input         = 'canonical';
+	keyEquivalent = "^o";
+	uuid          = 'A46FE7E3-D6FD-41CA-8BD7-3232DF5F551C';
+	command       =
+'#!/bin/bash
+url=`egrep -o "http://.*\.lighthouseapp\.com/projects/[[:digit:]]+/tickets/[[:digit:]]+[^ ]+" | tail -1`
+if [ $url != "" ]; then
+	open "$url"
+fi
+';
+}

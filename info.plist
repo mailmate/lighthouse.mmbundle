@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>zz-ohaqyrf@sereba.pbz</string>
+	<key>contactName</key>
+	<string>Benny Kjær Nielsen</string>
+	<key>description</key>
+	<string>Integration with the Lighthouse issue tracker.</string>
+	<key>name</key>
+	<string>Lighthouse</string>
+	<key>uuid</key>
+	<string>CAB621B8-C000-4BEC-A6E4-2D4F1FDAF1AD</string>
+</dict>
+</plist>
