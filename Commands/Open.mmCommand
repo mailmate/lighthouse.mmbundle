@@ -1,8 +1,8 @@
 {
-	isDisabled    = 0;
 	name          = 'Open in Browser';
 	input         = 'canonical';
 	keyEquivalent = "^o";
+	conditions    = "list-id exists and from.address =[c] 'no-reply@lighthouseapp.com'";
 	uuid          = 'A46FE7E3-D6FD-41CA-8BD7-3232DF5F551C';
 	command       =
 
